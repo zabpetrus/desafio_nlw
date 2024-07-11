@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F00108F2-A855-4DB1-A8D3-8343A4389BB3}|Journey.Communication\\Journey.Communication.csproj|c:\\users\\zsant\\source\\repos\\journey\\journey.api\\journey.communication\\requests\\requestregisteractivityjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00108F2-A855-4DB1-A8D3-8343A4389BB3}|Journey.Communication\\Journey.Communication.csproj|solutionrelative:journey.communication\\requests\\requestregisteractivityjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00108F2-A855-4DB1-A8D3-8343A4389BB3}|Journey.Communication\\Journey.Communication.csproj|c:\\users\\zsant\\source\\repos\\journey\\journey.api\\journey.communication\\responses\\responsetripsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00108F2-A855-4DB1-A8D3-8343A4389BB3}|Journey.Communication\\Journey.Communication.csproj|solutionrelative:journey.communication\\responses\\responsetripsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00108F2-A855-4DB1-A8D3-8343A4389BB3}|Journey.Communication\\Journey.Communication.csproj|c:\\users\\zsant\\source\\repos\\journey\\journey.api\\journey.communication\\responses\\responsetripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00108F2-A855-4DB1-A8D3-8343A4389BB3}|Journey.Communication\\Journey.Communication.csproj|solutionrelative:journey.communication\\responses\\responsetripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00108F2-A855-4DB1-A8D3-8343A4389BB3}|Journey.Communication\\Journey.Communication.csproj|c:\\users\\zsant\\source\\repos\\journey\\journey.api\\journey.communication\\responses\\responseshorttripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00108F2-A855-4DB1-A8D3-8343A4389BB3}|Journey.Communication\\Journey.Communication.csproj|solutionrelative:journey.communication\\responses\\responseshorttripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00108F2-A855-4DB1-A8D3-8343A4389BB3}|Journey.Communication\\Journey.Communication.csproj|c:\\users\\zsant\\source\\repos\\journey\\journey.api\\journey.communication\\responses\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00108F2-A855-4DB1-A8D3-8343A4389BB3}|Journey.Communication\\Journey.Communication.csproj|solutionrelative:journey.communication\\responses\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92905E3F-5369-40F6-B8E5-3DDDF03B5D18}|Journey.Api\\Journey.Api.csproj|c:\\users\\zsant\\source\\repos\\journey\\journey.api\\journey.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92905E3F-5369-40F6-B8E5-3DDDF03B5D18}|Journey.Api\\Journey.Api.csproj|solutionrelative:journey.api\\filters\\exceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28A9261F-88FF-4704-AEC1-97CCE8C8BCEB}|Journey.Infraestructure\\Journey.Infraestructure.csproj|c:\\users\\zsant\\source\\repos\\journey\\journey.api\\journey.infraestructure\\entities\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28A9261F-88FF-4704-AEC1-97CCE8C8BCEB}|Journey.Infraestructure\\Journey.Infraestructure.csproj|solutionrelative:journey.infraestructure\\entities\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseTripsJson.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Communication\\Responses\\ResponseTripsJson.cs",
+              "RelativeDocumentMoniker": "Journey.Communication\\Responses\\ResponseTripsJson.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Communication\\Responses\\ResponseTripsJson.cs",
+              "RelativeToolTip": "Journey.Communication\\Responses\\ResponseTripsJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:03:02.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResponseTripJson.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Communication\\Responses\\ResponseTripJson.cs",
+              "RelativeDocumentMoniker": "Journey.Communication\\Responses\\ResponseTripJson.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Communication\\Responses\\ResponseTripJson.cs",
+              "RelativeToolTip": "Journey.Communication\\Responses\\ResponseTripJson.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:02:02.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResponseShortTripJson.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Communication\\Responses\\ResponseShortTripJson.cs",
+              "RelativeDocumentMoniker": "Journey.Communication\\Responses\\ResponseShortTripJson.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Communication\\Responses\\ResponseShortTripJson.cs",
+              "RelativeToolTip": "Journey.Communication\\Responses\\ResponseShortTripJson.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T19:01:39.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RequestRegisterActivityJson.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Communication\\Requests\\RequestRegisterActivityJson.cs",
+              "RelativeDocumentMoniker": "Journey.Communication\\Requests\\RequestRegisterActivityJson.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Communication\\Requests\\RequestRegisterActivityJson.cs",
+              "RelativeToolTip": "Journey.Communication\\Requests\\RequestRegisterActivityJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:55:16.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResponseErrorsJson.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Communication\\Responses\\ResponseErrorsJson.cs",
+              "RelativeDocumentMoniker": "Journey.Communication\\Responses\\ResponseErrorsJson.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Communication\\Responses\\ResponseErrorsJson.cs",
+              "RelativeToolTip": "Journey.Communication\\Responses\\ResponseErrorsJson.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:59:59.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Journey.Api\\Filters\\ExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Api\\Filters\\ExceptionFilter.cs",
+              "RelativeToolTip": "Journey.Api\\Filters\\ExceptionFilter.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:58:18.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:17:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Infraestructure\\Entities\\Trip.cs",
+              "RelativeDocumentMoniker": "Journey.Infraestructure\\Entities\\Trip.cs",
+              "ToolTip": "C:\\Users\\zsant\\source\\repos\\Journey\\Journey.Api\\Journey.Infraestructure\\Entities\\Trip.cs",
+              "RelativeToolTip": "Journey.Infraestructure\\Entities\\Trip.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T18:33:49.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

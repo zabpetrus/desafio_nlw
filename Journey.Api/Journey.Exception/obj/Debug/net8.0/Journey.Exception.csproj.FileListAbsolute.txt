@@ -1,0 +1,14 @@
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\bin\Debug\net8.0\Journey.Exception.deps.json
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\bin\Debug\net8.0\Journey.Exception.dll
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\bin\Debug\net8.0\Journey.Exception.pdb
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.AssemblyReference.cache
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\obj\Debug\net8.0\Journey.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfoInputs.cache
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfo.cs
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.CoreCompileInputs.cache
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\obj\Debug\net8.0\Journey.Exception.dll
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\obj\Debug\net8.0\Journey.Exception.ResourceErrorMessage.resources
+C:\Users\zsant\source\repos\Journey\Journey.Api\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.GenerateResource.cache

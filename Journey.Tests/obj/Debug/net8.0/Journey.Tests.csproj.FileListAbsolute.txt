@@ -1,0 +1,12 @@
+C:\Users\zsant\source\repos\Journey\Journey.Tests\bin\Debug\net8.0\Journey.Tests.deps.json
+C:\Users\zsant\source\repos\Journey\Journey.Tests\bin\Debug\net8.0\Journey.Tests.dll
+C:\Users\zsant\source\repos\Journey\Journey.Tests\bin\Debug\net8.0\Journey.Tests.pdb
+C:\Users\zsant\source\repos\Journey\Journey.Tests\obj\Debug\net8.0\Journey.Tests.csproj.AssemblyReference.cache
+C:\Users\zsant\source\repos\Journey\Journey.Tests\obj\Debug\net8.0\Journey.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsant\source\repos\Journey\Journey.Tests\obj\Debug\net8.0\Journey.Tests.AssemblyInfoInputs.cache
+C:\Users\zsant\source\repos\Journey\Journey.Tests\obj\Debug\net8.0\Journey.Tests.AssemblyInfo.cs
+C:\Users\zsant\source\repos\Journey\Journey.Tests\obj\Debug\net8.0\Journey.Tests.csproj.CoreCompileInputs.cache
+C:\Users\zsant\source\repos\Journey\Journey.Tests\obj\Debug\net8.0\Journey.Tests.dll
+C:\Users\zsant\source\repos\Journey\Journey.Tests\obj\Debug\net8.0\refint\Journey.Tests.dll
+C:\Users\zsant\source\repos\Journey\Journey.Tests\obj\Debug\net8.0\Journey.Tests.pdb
+C:\Users\zsant\source\repos\Journey\Journey.Tests\obj\Debug\net8.0\ref\Journey.Tests.dll
